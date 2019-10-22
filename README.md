@@ -8,5 +8,8 @@ Repository for web development part of SOFT166 module
 05. Quality code and Web Accessbility
 
 # Useful Links
-https://github.com/EbookFoundation/free-programming-books
+- https://github.com/EbookFoundation/free-programming-books
+- A summary of the workflow for working with Git https://guides.github.com/introduction/flow/
+- Getting started with Bootstrap - https://www.w3schools.com/bootstrap/bootstrap_get_started.asp 
+- W3 CSS styles tutorial - https://www.w3schools.com/w3css/ an alternative to Bootstrap.
 
