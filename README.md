@@ -1,5 +1,5 @@
-# SOFT166
-Repository for web development part of SOFT166 module
+# SOFT166 NOW COMP1004
+Repository for web development part of COMP1004 module
 
 01. Getting Started with HTML and collaborative tools of GIT and Trello
 02. Adding functionality with JavaScript, mapping and web forms
